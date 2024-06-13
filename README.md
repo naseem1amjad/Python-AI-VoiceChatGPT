@@ -10,5 +10,5 @@ Youtube video can be watched at (https://youtu.be/R0vlGJXxeRc) , in this Video D
 
 naseem@technologist.com
 
-![About Pakistani Software Developer](https://www.ajsoftpk.com/naseem_amjad/)
+![About the Software Developer](https://www.ajsoftpk.com/naseem_amjad/)
 
